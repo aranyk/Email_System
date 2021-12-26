@@ -23,6 +23,7 @@ User story
 
 
 
+## Sekvensdiagram
 
 <img src="Seq_Diagram.png" width="400" align="left">
 
@@ -30,6 +31,9 @@ User story
 Sekvensdiagrammet viser systemets hoved- og alternative flyt. Objekt og actors vises på toppen av diagrammet. 
 Fra disse ser vi piler som linker til hver objekt.
 Her har vi tatt fokus på sortering av epost, uavhengig hvordan det er ønsket å sortere. 
+<br clear="both"/>
+
+
 
 ### _Scenario fra diagram:_
 Mail kommer fra mail_register og sendes videre til system. 
