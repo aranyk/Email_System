@@ -49,8 +49,9 @@ Dersom det ikke er mulig å sortere som ansatte har valgt, vil bruker få feilme
 muligheten til å sortere andre måter. 
 Dersom det er mulig å sortere på ønsket måte, vil mail sorteres og vises fram hos ansatte. 
 
+<br clear="both"/>
+
 ### klassediagram for systemet
 <img src="class.png" width="400" align="left">
 
 #####  _Oversikt over klassene med metodene og variablene som skal brukes i prosjektet_ 
-<br clear="both"/>
