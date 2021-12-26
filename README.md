@@ -12,7 +12,7 @@ Sekvensdiagrammet viser systemets hoved- og alternative flyt. Objekt og actors v
 Fra disse ser vi piler som linker til hver objekt.
 Her har vi tatt fokus på sortering av epost, uavhengig hvordan det er ønsket å sortere. 
 
-#####Scenario fra diagram: 
+##### Scenario fra diagram: 
 Mail kommer fra mail_register og sendes videre til system. 
 Systemet vil fungere som et mellomledd der mail vises fram. 
 Dersom det ikke er mulig å sortere som ansatte har valgt, vil bruker få feilmelding og 
