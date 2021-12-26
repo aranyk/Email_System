@@ -22,16 +22,11 @@ User story
 |Som ansatte skal jeg kunne endre teksten til PDF og sende tilbake til kunden på en fin tekstlig format|
 
 ## Sekvensdigram 
-<img src="sekvensdiagram_svare_kunder.png" width="400" align="left">
-
-
-
-
-
 Sekvensdiagrammet viser systemets hoved- og alternative flyt. Objekt og actors vises på toppen av diagrammet. 
 Fra disse ser vi piler som linker til hver objekt. 
 <br clear="both"/>
 
+<img src="sekvensdiagram_svare_kunder.png" width="400" align="left">
 
 <img src="Seq_Diagram.png" width="400" align="left">
 
