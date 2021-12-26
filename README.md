@@ -9,6 +9,7 @@ Primæraktøren er ansatte som skal kunne utføre disse funksjonaliteten.
 Sekundær aktøren er email systemet som skal hjelpe ansatte med å utføre disse funksjonene
 User story 
 <br clear="both"/>
+
 ### User Stories
 
 *Viser en tekstlig beskrivelse av funksjonalitetene som vi har laget i use case*
@@ -22,18 +23,13 @@ User story
 |Som ansatte skal jeg kunne endre teksten til PDF og sende tilbake til kunden på en fin tekstlig format|
 
 ## Sekvensdigram for sende mail
+<img src="sekvensdiagram_svare_kunder.png" width="400" align="left">
 Sekvensdiagrammet viser systemets hoved- og alternative flyt. Objekt og actors vises på toppen av diagrammet. 
 Fra disse ser vi piler som linker til hver objekt. 
+
 <br clear="both"/>
 
-
-
-### Sekvensdiagram for svare kunden
-<img src="sekvensdiagram_svare_kunder.png" width="400" align="left">
-
-<br>
-
-### User Stories
+### Tekstlig beskrivelse
 
 | Punkt  | Hovedflyt | Alternativ flyt|
 | ------------- | ------------- |-------------|
@@ -43,9 +39,10 @@ Fra disse ser vi piler som linker til hver objekt.
 |4 | ansatte svarer på mail | |
 | 5 | systemet sender mailen viderer | feil epost sendes til punkt 4 |
 | 6 | kunden mottar  mailen | |
-<br>
+
+### Sekvensdiagram for  å sortere mail 
 <img src="Seq_Diagram.png" width="400" align="left">
-(2) Her har vi tatt fokus på sortering av epost, uavhengig hvordan det er ønsket å sortere.
+Her har vi tatt fokus på sortering av epost, uavhengig hvordan det er ønsket å sortere.
 Mail kommer fra mail_register og sendes videre til system. 
 Systemet vil fungere som et mellomledd der mail vises fram. 
 Dersom det ikke er mulig å sortere som ansatte har valgt, vil bruker få feilmelding og 
