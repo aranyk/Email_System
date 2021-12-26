@@ -21,13 +21,15 @@ User story
 |Som ansatte skal jeg kunne arkivere mailen slik at jeg har den som dokumentasjon |
 |Som ansatte skal jeg kunne endre teksten til PDF og sende tilbake til kunden på en fin tekstlig format|
 
+## Sekvensdigram 
+<img src="sekvensdiagram_svare_kunder.png" width="400" align="left">
+
+
 
 
 ## Sekvensdiagram
 
 <img src="Seq_Diagram.png" width="400" align="left">
-
-
 Sekvensdiagrammet viser systemets hoved- og alternative flyt. Objekt og actors vises på toppen av diagrammet. 
 Fra disse ser vi piler som linker til hver objekt.
 Her har vi tatt fokus på sortering av epost, uavhengig hvordan det er ønsket å sortere. 
