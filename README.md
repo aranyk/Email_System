@@ -27,19 +27,25 @@ User story
 
 
 
-## Sekvensdiagram
 
-<img src="Seq_Diagram.png" width="400" align="left">
 Sekvensdiagrammet viser systemets hoved- og alternative flyt. Objekt og actors vises på toppen av diagrammet. 
 Fra disse ser vi piler som linker til hver objekt. 
 <br clear="both"/>
 
 
+<img src="Seq_Diagram.png" width="400" align="left">
 
 ### _Scenario fra diagram:_
-(1) 
+(1) Å logge inn og sende mail ut
 
-(2)Her har vi tatt fokus på sortering av epost, uavhengig hvordan det er ønsket å sortere.
+| Punkt  | Beskrivelse |
+| ------------- | ------------- |
+| 1.1  | Logg inn og les mail |
+| 1.2  | Mislykker å logg inn. Ansatte mottar feilmelding |
+| 2.1  | Send svar til kunden på mail. Kunde mottar mail |
+| 2.2 | Melding blir ikke sendt. Ansatte mottar feilmelding |
+
+(2) Her har vi tatt fokus på sortering av epost, uavhengig hvordan det er ønsket å sortere.
 Mail kommer fra mail_register og sendes videre til system. 
 Systemet vil fungere som et mellomledd der mail vises fram. 
 Dersom det ikke er mulig å sortere som ansatte har valgt, vil bruker få feilmelding og 
