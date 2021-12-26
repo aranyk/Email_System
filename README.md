@@ -2,7 +2,7 @@
 
 # Use Case
 
-<img src="usecase.png" width="33" align="left">
+<img src="usecase.png" width="400" align="left">
 
 Use case som viser de fem hovedfunksjonaliteter som  vi kommer til å fokusere på 
 Primæraktøren er ansatte som skal kunne utføre disse funksjonaliteten. 
