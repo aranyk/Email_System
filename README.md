@@ -3,10 +3,12 @@
 # Use Case
 
 <img src="usecase.png" width="200">
+
 Use case som viser de fem hovedfunksjonaliteter som  vi kommer til å fokusere på 
 Primæraktøren er ansatte som skal kunne utføre disse funksjonaliteten. 
 Sekundær aktøren er email systemet som skal hjelpe ansatte med å utføre disse funksjonene
 User story 
+<br clear="both"/>
 
 ## User Stories
 
