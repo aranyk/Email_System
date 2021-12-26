@@ -17,7 +17,7 @@ Som ansatte skal jeg kunne lese av spesifikke elementer i mailen som jeg skal br
 Som ansatte skal jeg kunne svare tilbake kunden slik at kunden får svar på mailen han har sendt
 Som ansatte skal jeg kunne arkivere mailen slik at jeg har den som dokumentasjon 
 Som ansatte skal jeg kunne endre teksten til PDF og sende tilbake til kunden på en fin tekstlig format
-<br clear="both"/>
+
 
 
 
