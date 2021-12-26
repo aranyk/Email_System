@@ -28,7 +28,7 @@ Fra disse ser vi piler som linker til hver objekt.
 
 
 
-### _Sekvensdiagram for svare kudne :_
+### Sekvensdiagram for svare kudne
 <img src="sekvensdiagram_svare_kunder.png" width="400" align="left">
 
 <br>
