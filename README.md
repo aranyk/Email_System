@@ -26,12 +26,12 @@ Sekvensdiagrammet viser systemets hoved- og alternative flyt. Objekt og actors v
 Fra disse ser vi piler som linker til hver objekt. 
 <br clear="both"/>
 
-<img src="sekvensdiagram_svare_kunder.png" width="400" align="left">
 
-<img src="Seq_Diagram.png" width="400" align="left">
 
 ### _Scenario fra diagram:_
-(1) Å logge inn og sende mail ut
+<img src="sekvensdiagram_svare_kunder.png" width="400" align="left">
+
+(1) Å logge inn og sende mail ut. 
 
 | Punkt  | Beskrivelse |
 | ------------- | ------------- |
@@ -40,6 +40,8 @@ Fra disse ser vi piler som linker til hver objekt.
 | 2.1  | Send svar til kunden på mail. Kunde mottar mail |
 | 2.2 | Melding blir ikke sendt. Ansatte mottar feilmelding |
 
+
+<img src="Seq_Diagram.png" width="400" align="left">
 (2) Her har vi tatt fokus på sortering av epost, uavhengig hvordan det er ønsket å sortere.
 Mail kommer fra mail_register og sendes videre til system. 
 Systemet vil fungere som et mellomledd der mail vises fram. 
