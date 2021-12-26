@@ -1,4 +1,4 @@
-# Email System
+# Email_System
 
 ## Use Case
 
@@ -31,13 +31,15 @@ User story
 
 <img src="Seq_Diagram.png" width="400" align="left">
 Sekvensdiagrammet viser systemets hoved- og alternative flyt. Objekt og actors vises på toppen av diagrammet. 
-Fra disse ser vi piler som linker til hver objekt.
-Her har vi tatt fokus på sortering av epost, uavhengig hvordan det er ønsket å sortere. 
+Fra disse ser vi piler som linker til hver objekt. 
 <br clear="both"/>
 
 
 
 ### _Scenario fra diagram:_
+(1) 
+
+(2)Her har vi tatt fokus på sortering av epost, uavhengig hvordan det er ønsket å sortere.
 Mail kommer fra mail_register og sendes videre til system. 
 Systemet vil fungere som et mellomledd der mail vises fram. 
 Dersom det ikke er mulig å sortere som ansatte har valgt, vil bruker få feilmelding og 
