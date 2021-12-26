@@ -8,7 +8,7 @@ Use case som viser de fem hovedfunksjonaliteter som  vi kommer til å fokusere p
 Primæraktøren er ansatte som skal kunne utføre disse funksjonaliteten. 
 Sekundær aktøren er email systemet som skal hjelpe ansatte med å utføre disse funksjonene
 User story 
-<br clear="both"/>
+
 
 ## User Stories
 
@@ -18,7 +18,7 @@ Som ansatte skal jeg kunne lese av spesifikke elementer i mailen som jeg skal br
 Som ansatte skal jeg kunne svare tilbake kunden slik at kunden får svar på mailen han har sendt
 Som ansatte skal jeg kunne arkivere mailen slik at jeg har den som dokumentasjon 
 Som ansatte skal jeg kunne endre teksten til PDF og sende tilbake til kunden på en fin tekstlig format
-
+<br clear="both"/>
 
 
 
