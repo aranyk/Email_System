@@ -41,7 +41,7 @@ Fra disse ser vi piler som linker til hver objekt.
 |4 | ansatte svarer på mail | |
 | 5 | systemet sender mailen viderer | feil epost sendes til punkt 4 |
 | 6 | kunden mottar  mailen | |
-
+<br>
 <img src="Seq_Diagram.png" width="400" align="left">
 (2) Her har vi tatt fokus på sortering av epost, uavhengig hvordan det er ønsket å sortere.
 Mail kommer fra mail_register og sendes videre til system. 
