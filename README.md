@@ -15,6 +15,7 @@ User story
 
 | User Stories |
 | ---- |
+|Som ansatt skal jeg kunne logg inn i systemet slik at kan bruke den|
 |Som ansatt skal jeg kunne sortere mailen som ligger i systemet for å lettere finne riktig mail|
 |Som ansatte skal jeg kunne svare tilbake kunden slik at kunden får svar på mailen han har sendt|
 |Som ansatte skal jeg kunne arkivere mailen slik at jeg har den som dokumentasjon |
