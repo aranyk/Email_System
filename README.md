@@ -11,7 +11,7 @@ User story
 <br clear="both"/>
 ### User Stories
 
-######*Viser en tekstlig beskrivelse av funksjonalitetene som vi har laget i use case*
+###### *Viser en tekstlig beskrivelse av funksjonalitetene som vi har laget i use case*
 
 | User Stories |
 | ---- |
