@@ -31,7 +31,7 @@ Fra disse ser vi piler som linker til hver objekt.
 ### _Scenario fra diagram:_
 <img src="sekvensdiagram_svare_kunder.png" width="400" align="left">
 
-<br clear="both"/>
+<br>
 
 ### User Stories
 
