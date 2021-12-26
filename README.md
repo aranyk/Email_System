@@ -31,15 +31,16 @@ Fra disse ser vi piler som linker til hver objekt.
 ### _Scenario fra diagram:_
 <img src="sekvensdiagram_svare_kunder.png" width="400" align="left">
 
-(1) Å logge inn og sende mail ut. 
+### User Stories
 
-| Punkt  | Beskrivelse |
-| ------------- | ------------- |
-| 1.1  | Logg inn og les mail |
-| 1.2  | Mislykker å logg inn. Ansatte mottar feilmelding |
-| 2.1  | Send svar til kunden på mail. Kunde mottar mail |
-| 2.2 | Melding blir ikke sendt. Ansatte mottar feilmelding |
-
+| Punkt  | Hovedflyt | Alternativ flyt|
+| ------------- | ------------- |-------------|
+|1| mail sendes til systemet|   |
+|2 | kunden logger inn | |
+|3 | systemet verifiserer kunden| feil innlogging sendes til punkt 2 |
+|4 | ansatte svarer på mail | |
+| 5 | systemet sender mailen viderer | feil epost sendes til punkt 4 |
+| 6 | kunden mottar  mailen | |
 
 <img src="Seq_Diagram.png" width="400" align="left">
 (2) Her har vi tatt fokus på sortering av epost, uavhengig hvordan det er ønsket å sortere.
