@@ -53,3 +53,4 @@ Dersom det er mulig å sortere på ønsket måte, vil mail sorteres og vises fra
 <img src="class.png" width="400" align="left">
 
 #####  _Oversikt over klassene med metodene og variablene som skal brukes i prosjektet_ 
+<br clear="both"/>
