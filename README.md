@@ -40,7 +40,7 @@ Fra disse ser vi piler som linker til hver objekt.
 | 5 | systemet sender mailen viderer | feil epost sendes til punkt 4 |
 | 6 | kunden mottar  mailen | |
 
-### Sekvensdiagram for  å sortere mail 
+### Sekvensdiagram for å sortere mail 
 <img src="Seq_Diagram.png" width="400" align="left">
 Her har vi tatt fokus på sortering av epost, uavhengig hvordan det er ønsket å sortere.
 Mail kommer fra mail_register og sendes videre til system. 
@@ -49,3 +49,7 @@ Dersom det ikke er mulig å sortere som ansatte har valgt, vil bruker få feilme
 muligheten til å sortere andre måter. 
 Dersom det er mulig å sortere på ønsket måte, vil mail sorteres og vises fram hos ansatte. 
 
+### klassediagram for systemet
+<img src="class.png" width="400" align="left">
+
+#####  _Oversikt over klassene med metodene og variablene som skal brukes i prosjektet_ 
