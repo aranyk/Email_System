@@ -10,6 +10,7 @@ Sekundær aktøren er email systemet som skal hjelpe ansatte med å utføre diss
 User story 
 <br clear="both"/>
 ### User Stories
+
 ####*Viser en tekstlig beskrivelse av funksjonalitetene som vi har laget i use case*
 
 | User Stories |
